@@ -34,6 +34,9 @@ export const Provider = ({ children }) => {
       );
       item["answers"] = answers;
       item["chosenAnswers"] = "";
+      setIsCorrect("");
+      setNextPage(true);
+      setDisabled(false);
     });
   };
 
