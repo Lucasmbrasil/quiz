@@ -1,4 +1,4 @@
-# Web app jogo de Quiz!
+# Quiz game!
 
 Projeto com o objetivo de desenvolver um jogo de perguntas e respostas.
 
